@@ -1,0 +1,16 @@
+
+
+.InfoBox{
+  
+    text-align: center;
+   
+
+}
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    font-weight: 3rem;
+    color: black;
+}
